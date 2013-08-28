@@ -9,14 +9,6 @@
   "dependencies": {
     "express": "2.5.x"
   },
-  "engines": {
-    "node": "0.8.x",
-    "npm": "1.1.x"
-  },
-  "keywords": [
-    "node",
-    "heroku"
-  ],
   "author": "Rupesh Bhochhibhoya",
   "license": "BSD",
   "gitHead": "e4130eed48c3b8da1cd2791375da2069d12ae769"
